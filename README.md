@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Autonomousanz
 - 👀 I’m interested in Vehicle Autonomy
 - 🌱 I’m currently learning Robot Operating systems (ROS), Coding in C++ , Matlab and Python for application in Vehicle Autonomy
-- 💞️ I’m looking to collaborate on projects involving Motion Planning/Perception/Control/Simulation
+- ✨  I’m looking to collaborate on projects involving Motion Planning/Perception/Control/Simulation
 - 📫 Reach me @ jsanskruti29@gmail.com
 
 <!---
