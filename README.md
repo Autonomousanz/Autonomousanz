@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Vehicle Autonomy
 
-- 🌱 I’m currently learning Robot Operating systems (ROS), Coding in C++ , Matlab and Python for various application in Vehicle Autonomy
+- 🌱 I’m currently learning Robot Operating systems (ROS), C++ , Matlab and Python for various application in Vehicle Autonomy
 
 - ✨  I’m looking to collaborate on projects involving  Motion Planning/Perception/Control/Simulation/DeepLearning/DeepReinforcement Learning
 
