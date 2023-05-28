@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Autonomousanz https://autonomousanz.github.io/
+- 👋 Hi, I’m @Autonomousanz <a href="https://autonomousanz.github.io/" target="_blank">more about me ..</a>
 
 - 👀 I’m interested in Vehicle Autonomy
 
